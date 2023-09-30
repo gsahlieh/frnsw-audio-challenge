@@ -11,7 +11,7 @@ r = sr.Recognizer()
 audio_dir = "audio"
 
 # Output CSV file
-output_file = "test-output.csv"
+output_file = "output.csv"
 
 def get_total_files(audio_dir):
     """
